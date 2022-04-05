@@ -1,4 +1,10 @@
 ### ʜɪ ᴛʜᴇʀᴇ 👋,  ɪ'ᴍ ᴍᴏɴ
+```
+Hanya mencoba hal baru saja, 
+suka ngefork dan memodifikasi
+repository jika bisa :)
+```
+
 
 ## <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> ᴍʏ sᴛᴀᴛs:
 
