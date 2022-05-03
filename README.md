@@ -1,6 +1,15 @@
 ### ʜɪ ᴛʜᴇʀᴇ 👋,  ɪ'ᴍ ᴍᴏɴ
 Hanya mencoba hal baru saja, suka ngefork dan memodifikasi repository jika bisa :)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<details>
+<summary><b></b></summary>
+<br>
+<a href="https://t.me/lupakebot"><img src="https://img.shields.io/badge/My%20Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50">
 <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50">
 
