@@ -5,7 +5,7 @@ Hanya mencoba hal baru saja, senang edit dan memodifikasi repository jika bisa :
 <details>
 <summary><b></b></summary>
 <br>
-<a href="https://t.me/inimonn"><img src="https://img.shields.io/badge/My%20Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/notamon"><img src="https://img.shields.io/badge/My%20Telegram-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
